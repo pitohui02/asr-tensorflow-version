@@ -1,0 +1,26 @@
+# Core libraries
+
+tensorflow
+tensorflow-io
+
+# Audio Processing
+
+librosa
+soundfile
+pydub
+
+# Data Preprocessing 
+
+numpy
+pandas
+scikit-learn
+
+# Visualization
+
+matplotlib
+seaborn
+
+
+# Dev requirements
+
+ipykernel
