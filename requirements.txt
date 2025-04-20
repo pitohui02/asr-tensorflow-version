@@ -1,7 +1,9 @@
 # Core libraries
 
-tensorflow
+tensorflow==2.14.0
+transformers==4.36.2
 tensorflow-io
+torch
 
 # Audio Processing
 
@@ -11,7 +13,7 @@ pydub
 
 # Data Preprocessing 
 
-numpy
+numpy==1.24.3
 pandas
 scikit-learn
 
